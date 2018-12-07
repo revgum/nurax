@@ -33,6 +33,7 @@ development:
     - srsridh@iu.edu
     - cam156@psu.edu
     - karen.didrickson@northwestern.edu
+    - ntt7+nurax@psu.edu
 production:
   admin:
     - mjgiarlo@stanford.edu
@@ -69,6 +70,7 @@ production:
     - srsridh@iu.edu
     - cam156@psu.edu
     - karen.didrickson@northwestern.edu
+    - ntt7+nurax@psu.edu
 test:
   archivist:
     - archivist1@example.com
